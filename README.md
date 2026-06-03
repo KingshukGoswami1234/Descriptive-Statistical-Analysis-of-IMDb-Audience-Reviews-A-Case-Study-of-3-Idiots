@@ -127,3 +127,8 @@ The statistical analysis indicates that *3 Idiots* received overwhelmingly posit
 * 📉 Skewness: **-2.199**
 
 These findings collectively indicate a highly favorable audience response toward *3 Idiots*, with ratings strongly concentrated at the upper end of the scale.
+
+---
+## Author
+
+**Kingshuk Goswami**
