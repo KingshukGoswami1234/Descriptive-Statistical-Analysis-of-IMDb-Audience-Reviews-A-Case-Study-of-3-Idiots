@@ -97,10 +97,10 @@ The statistical analysis indicates that *3 Idiots* received overwhelmingly posit
 
 ## 🛠 Tech Stack
 
-* **Data Wrangling & Core Operations:** `Python`, `Pandas`, `NumPy`[cite: 2]
-* **Statistical Inference Engine:** `SciPy` (`scipy.stats` for Skewness and Gaussian Kernel Density Estimation)[cite: 2]
-* **Visualization Matrix:** `Matplotlib` (Custom styled sheets configured for professional reporting layouts)[cite: 2]
-* **Pipeline Automation:** `Playwright` (Async dynamic page-scrolling) & `BeautifulSoup` (DOM structure extraction)[cite: 1, 2]
+* **Data Wrangling & Core Operations:** `Python`, `Pandas`, `NumPy`
+* **Statistical Inference Engine:** `SciPy` (`scipy.stats` for Skewness and Gaussian Kernel Density Estimation)
+* **Visualization Matrix:** `Matplotlib` (Custom styled sheets configured for professional reporting layouts)
+* **Pipeline Automation:** `Playwright` (Async dynamic page-scrolling) & `BeautifulSoup` (DOM structure extraction)
 
 ---
 
